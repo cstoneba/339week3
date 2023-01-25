@@ -1,0 +1,54 @@
+body{
+    margin:5px;
+    padding:5px;
+    line-height:1.15;
+ }
+ 
+ 
+ h1,h2, h3{
+    font-weight: bold;
+    margin-top:15px;
+ 
+ 
+ }
+ ul li{
+    margin-left: 25px;
+    list-style-type: upper-roman;
+ }
+
+ header ul li{
+    list-style-type: none;
+    border: solid 2px black;
+    border-radius: 15px;
+    display: inline-block;
+    padding: 10px;
+    padding-right: 30px;
+    background: aqua;
+    text-align: left;
+    margin-top: 10px;
+ }
+
+ body a {
+    margin-bottom: 10px;
+ }
+
+ hr.solid {
+    border-top: 1px solid black;
+  }
+
+img {
+    width: 24%;
+    padding: 15px;
+    margin: 0px;
+    border: dashed 5px green;
+    box-sizing: border-box;
+}
+
+p {
+   border: solid 5px aqua;
+   border-radius: 15px;
+   color: green;
+   margin: 10px;
+   padding: 5px;
+}
+ 
